@@ -1,4 +1,4 @@
-<h1 align="center">EmbeddedRustMastery</h1>
+<h1 align="center">Embedded Systems With Rust-Mastery</h1>
 
 <p align="center">
   A comprehensive learning roadmap and resource repository for mastering Rust programming for embedded systems development.
