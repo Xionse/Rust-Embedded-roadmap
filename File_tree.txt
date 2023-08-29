@@ -1,0 +1,37 @@
+📁 EmbeddedRustMastery
+  ├── 📄 README.md
+  ├── 📄 ROADMAP.md
+  ├── 📄 PROJECTS.md
+  ├── 📄 RESOURCES.md
+  ├── 📁 Phase1_RustFundamentals
+  │    ├── 📄 IntroductionToRust.md
+  │    ├── 📄 MemorySafetyAndOwnership.md
+  │    ├── 📄 ConcurrencyAndMultithreading.md
+  │    ├── 📄 Exercises
+  │    └── 📄 Resources.md
+  ├── 📁 Phase2_EmbeddedBasicsWithRust
+  │    ├── 📄 IntroductionToEmbeddedSystems.md
+  │    ├── 📄 RustForEmbeddedSystems.md
+  │    ├── 📄 MemoryManagementInEmbeddedRust.md
+  │    ├── 📄 Exercises
+  │    └── 📄 Resources.md
+  ├── 📁 Phase3_AdvancedEmbeddedRust
+  │    ├── 📄 PeripheralAccessCrate.md
+  │    ├── 📄 RealTimeProgramming.md
+  │    ├── 📄 RTOSAndConcurrencyPatterns.md
+  │    ├── 📄 Exercises
+  │    └── 📄 Resources.md
+  ├── 📁 Phase4_SafetyCriticalAndBeyond
+  │    ├── 📄 SafetyCriticalDevelopment.md
+  │    ├── 📄 DebuggingAndTesting.md
+  │    ├── 📄 CustomDeviceDrivers.md
+  │    ├── 📄 EmbeddedRustEcosystem.md
+  │    ├── 📄 Exercises
+  │    └── 📄 Resources.md
+  ├── 📁 Phase5_PersonalProjectsAndAdvancedTopics
+  │    ├── 📄 PersonalEmbeddedProjects.md
+  │    ├── 📄 AdvancedTopics.md
+  │    ├── 📄 CustomBoardAndPlatformSupport.md
+  │    ├── 📄 Exercises
+  │    └── 📄 Resources.md
+  └── 📁 Images
